@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1718166799 source:e:\os\final year\main.cpp
+	<windows.h>
+	<tchar.h>
+	<commctrl.h>
+	<psapi.h>
+	<vector>
+	<iostream>
+
